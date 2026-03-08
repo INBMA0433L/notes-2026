@@ -93,14 +93,13 @@ Sorting. Aggregation.
 ### Notes
 
 1. [`A301` - Sorting](./A301-sorting.md)
-1. `A301` - Sorting (with possible solutions)
+1. [`A301` - Sorting (with possible solutions)](./A301-sorting-full.md)
 1. [`A302` - Aggregation](./A302-aggregation.md)
-1. `A302` - Aggregation (with possible solutions)
+1. [`A302` - Aggregation (with possible solutions)](./A302-aggregation-full.md)
 
 ### Highlights
 
-> [!IMPORTANT]
-> The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle.
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
 
 1. You must be able to use *Sorting*:
 
@@ -126,8 +125,7 @@ Built-in functions.
 
 ### Highlights
 
-> [!IMPORTANT]
-> The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle.
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
 
 1. You must be able to understand the official documentation of a function.
 1. You must be able to use the following functions and features without documentation:
@@ -137,3 +135,28 @@ Built-in functions.
    1. **handling strings**: `LOWER()`, `UPPER()`, `CONCAT()` (or the `||` operator), `SUBSTR()`, `LENGTH()`, `INSTR()`
    1. **math functions**: `ROUND()`, `ABS()`
    1. **handling dates**: `SYSDATE`, `EXTRACT()`, `TRUNC()`, `TO_DATE()` (year, month, and day)
+
+---
+
+## Topic `B1`
+
+Joining tables and subselects #1.
+
+### Notes
+
+1. [`B101` - Joining tables / The Cars Schema](./B101-join-cars-schema.md)
+1. [`B102` - Joining tables / The Olympics Schema](./B102-join-olympics-schema.md)
+1. `B102` - Joining tables / The Olympics Schema (with possible solutions)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to `JOIN` two tables using all the variants:
+
+   1. `CROSS JOIN`
+   1. `INNER JOIN`
+   1. `LEFT OUTER JOIN`
+   1. `RIGHT OUTER JOIN`
+   1. `FULL OUTER JOIN`
+   1. `NATURAL JOIN`
