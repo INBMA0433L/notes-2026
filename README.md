@@ -189,9 +189,9 @@ Subselects #1.
 ### Notes
 
 1. [`C101` - Subselects, single (0D) result](./C101-subselects-0d.md)
-1. `C101` - Subselects, single (0D) result (with possible solutions)
+1. [`C101` - Subselects, single (0D) result (with possible solutions)](./C101-subselects-0d-full.md)
 1. [`C102` - Subselects, vector (1D) result](./C102-subselects-1d.md)
-1. `C102` - Subselects, vector (1D) result (with possible solutions)
+1. [`C102` - Subselects, vector (1D) result (with possible solutions)](./C102-subselects-1d-full.md)
 
 ### Highlights
 
@@ -210,11 +210,11 @@ Subselects #2.
 ### Notes
 
 1. [`C201` - Subselects, matrix (2D) result](./C201-subselects-2d.md)
-1. `C201` - Subselects, matrix (2D) result (with possible solutions)
+1. [`C201` - Subselects, matrix (2D) result (with possible solutions)](./C201-subselects-2d-full.md)
 1. [`C202` - Conditions `ANY`, `ALL`, and `EXISTS`](./C202-subselects-any-all-exists.md)
-1. `C202` - Conditions `ANY`, `ALL`, and `EXISTS` (with possible solutions)
+1. [`C202` - Conditions `ANY`, `ALL`, and `EXISTS`(with possible solutions)](./C202-subselects-any-all-exists-full.md)
 1. [`C203` - Set Operators](./C203-set-operators.md)
-1. `C203` - Set Operators (with possible solutions)
+1. [`C203` - Set Operators (with possible solutions)](./C203-set-operators-full.md)
 1. [`C204` - `ROWNUM` Pseudocolumn](./C204-rownum.md)
 1. `C204` - `ROWNUM` Pseudocolumn (with possible solutions)
 
@@ -226,3 +226,41 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use the `ANY`, `ALL`, and `EXISTS` conditions.
 1. You must be able to use the `UNION`, `INTERSECT`, `EXCEPT`, and `MINUS`  conditions.
 1. You must be able to use the `ROWNUM` pseudocolumn.
+
+---
+
+## Topic `D1`
+
+DML statements #1.
+
+### Notes
+
+1. [`D101` - `UPDATE` statement](./D101-update.md)
+1. `D101` - `UPDATE` statement (with possible solutions)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to use the `ROLLBACK` and `COMMIT` statements.
+1. You must be able to use basic `UPDATE` statements.
+1. You must be able to use subselect-based `UPDATE` statements.
+
+---
+
+## Topic `D2`
+
+DML statements #2.
+
+### Notes
+
+1. [`D201` - `DELETE` statement](./D201-delete.md)
+1. `D201` - `DELETE` statement (with possible solutions)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to use basic `DELETE` statements.
+1. You must be able to use subselect-based `DELETE` statements.
+1. You must be able to use manually cascaded `DELETE` statements.
